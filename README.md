@@ -1,9 +1,9 @@
 # IdentifyUsersFromHTTPHeader
 
-As we all know http header contain some information that related with the users.
+As we all know HTTP header contains some information that related with the browser agent.
 
-How specific can we achieve to identify the identity of that specific user?
+How specific can we achieve to recognize the identity of that specific user behind the screen?
 
-Or could we use the header as a big data source to anlysis the components of our customers?
+Or could we use the headers' information as a big data source to anlysis the components or distribution of our customers?
 
 This project is used for this and there are maybe a lot we can do.
